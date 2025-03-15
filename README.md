@@ -43,6 +43,7 @@ git clone https://github.com/WyattCDal/Program-Launcher.git
 ```
 Navigate to the directory:
 ```
+cd Program-Launcher
 cd "Program Launcher"
 ```
 Run the script:
