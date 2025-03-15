@@ -6,10 +6,15 @@ A simple Python-based program launcher that provides a graphical menu for select
 - Graphical menu using `graphics.py`
 - Launch interactive mini-games
 - User-friendly error handling
+- ![image-removebg-preview](https://github.com/user-attachments/assets/75a92604-ca06-45bf-b9fe-a2340caba967)
 
 ### **🖥 Included Games**
 - **MadLibsGenerator.py** - Fill in words to create funny stories
+![_EB4B2643-D609-4DC2-BDD7-456C01D58EE8_-removebg-preview](https://github.com/user-attachments/assets/362da900-1e1c-4df5-87ef-3ad3155ac5dc)
+![_4C6EC9F3-722B-4B05-A2FE-2C14D097879B_-removebg-preview](https://github.com/user-attachments/assets/79a32c1f-cb98-4591-9950-fb4d8aaf86f6)
 - **NumberGuessingGame.py** - Try to guess the random number
+![_689CF510-7080-4399-9689-17F85A30BDD5_-removebg-preview](https://github.com/user-attachments/assets/9e159904-e27d-4a25-995b-40db6f557a8e)
+![_A14B0E44-5CB3-48DD-B4F8-96075B4A4362_-removebg-preview](https://github.com/user-attachments/assets/8212979d-04f4-471a-94d5-32ae402f5fe5)
 
 ## **🔧 Requirements**
 
