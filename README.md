@@ -6,7 +6,9 @@ A simple Python-based program launcher that provides a graphical menu for select
 - Graphical menu using `graphics.py`
 - Launch interactive mini-games
 - User-friendly error handling
-- ![image-removebg-preview](https://github.com/user-attachments/assets/75a92604-ca06-45bf-b9fe-a2340caba967)
+
+![image-removebg-preview](https://github.com/user-attachments/assets/75a92604-ca06-45bf-b9fe-a2340caba967)
+> Image of v1.0 Program Launcher (Outdated)
 
 ### **🖥 Included Games**
 - **MadLibsGenerator.py** - Fill in words to create funny stories
@@ -15,6 +17,12 @@ A simple Python-based program launcher that provides a graphical menu for select
 - **NumberGuessingGame.py** - Try to guess the random number
 ![_689CF510-7080-4399-9689-17F85A30BDD5_-removebg-preview](https://github.com/user-attachments/assets/9e159904-e27d-4a25-995b-40db6f557a8e)
 ![_A14B0E44-5CB3-48DD-B4F8-96075B4A4362_-removebg-preview](https://github.com/user-attachments/assets/8212979d-04f4-471a-94d5-32ae402f5fe5)
+- **Random Dog Images** - Click to show a random photo of a dog
+![dogpre1](https://github.com/user-attachments/assets/40c28bf3-5baf-4a38-837a-bf0a463c0de3)
+![dogpre2](https://github.com/user-attachments/assets/4c3d762f-c5c9-4d60-9dd8-bfdec5c56e87)
+- **Username & Password Generator** - Makes a Username and Password
+  > No images for this yet
+
 
 ## **🔧 Requirements**
 
@@ -49,7 +57,6 @@ git clone https://github.com/WyattCDal/Program-Launcher.git
 Navigate to the directory:
 ```
 cd Program-Launcher
-cd "Program Launcher"
 ```
 Run the script:
 ```
@@ -57,4 +64,3 @@ start "Program Launcher.exe"
 ```
 
 Enjoy the games!
-
